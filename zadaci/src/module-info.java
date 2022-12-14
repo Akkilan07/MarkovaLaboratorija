@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kalan
+ *
+ */
+module kolokvijum {
+}
